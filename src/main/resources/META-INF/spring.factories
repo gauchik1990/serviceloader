@@ -1,0 +1,2 @@
+ch.frankel.blog.serviceloader.Foo=ch.frankel.blog.serviceloader.FooImpl1,ch.frankel.blog.serviceloader.FooImpl2
+vds.htcmnh.spi.BankServiceSPI=vds.htcmnh.spi.impl.techcombank.TechcombankServiceImpl
